@@ -1,10 +1,7 @@
-# Disable Intel CPU Meltdown/Spectre Mitigation on Linux Kernel
+Becasue the pacthes of Meltdown/Specture was introduced into Linux Kernel (and Windows).
+Your Intel CPU Performance has been degraded after the Linux/Windows was updated.
 
-
-
-Due to the metldown/specture of Intel CPUs. Your Intel CPU Performance has been degraded since the patches of Linux kernel (or Windows)
-
-There is a way to *Make your CPU fast again*
+However, there is a way to *Make your CPU fast again*.
 
 # In Short
 
