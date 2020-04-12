@@ -5,7 +5,7 @@ Bash Command
 
 ```
 ls *.mp4 | xargs -i echo file {} > list.txt
-ffmpeg -f concat -safe 0 -i mylist.txt -c copy output.mp4
+ffmpeg -f concat -safe 0 -i list.txt -c copy output.mp4
 ```
 
 Reference
